@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to my Protfolio!</h1>
+<h1 align="center">Hi 👋 Welcome to my Protfolio!</h1>
 <h3 align="center">.NET dev from Switzerland, very passionate about C#.</h3>
 
 - 🌱 I’m currently learning **ASP.NET -> Blazor**
