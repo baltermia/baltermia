@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋 Welcome to my Protfolio!</h1>
-<h3 align="center">.NET dev from Switzerland, very passionate about C#.</h3>
+<h3 align="center">.NET dev, very passionate about C#.</h3>
 
-- 🌱 I’m currently learning **ASP.NET -> Blazor**
+- 🌱 Currently trying to figure out **ASP.NET and Blazor**
 
-- 💬 Ask me about **C# or .net in general**
+- 💬 Ask me anything about **C#**
 
 - 📫 How to reach me: **contact@clopath.com**
 
-- ⚡ Fun fact: **PHP is dog**
+- ⚡ Fun fact: **PHP is complete dog**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
