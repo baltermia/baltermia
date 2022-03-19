@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 Welcome to my Protfolio!</h1>
-<h3 align="center">.NET dev, very passionate about C#.</h3>
+<h3 align="center">.NET dev who's very passionate about C#.</h3>
 
 - 🌱 Currently trying to figure out **ASP.NET and Blazor**
 
