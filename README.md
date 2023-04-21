@@ -3,8 +3,6 @@
 
 - 📫 How to reach me: **contact@clopath.com**
 
-- ⚡ Fun fact: **PHP is complete dog**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/baltermia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="baltermia" height="30" width="40" /></a>
