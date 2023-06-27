@@ -3,6 +3,7 @@
 <h3 align="center">.NET dev - mainly coding in C# & C++</h3>
 
 - 📫 How to reach me: **contact@clopath.com**
+- 🌱 I’m currently learning **OpenCL, OpenGL & Vulkan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
