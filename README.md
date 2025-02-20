@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋 Welcome to my Portfolio!</h1>
 <h3 align="center">.NET dev - mainly coding in C# & C++</h3>
 
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=baltermia.baltermia)
+
 - 📫 How to reach me: **contact@clopath.com**
 - 🌱 I’m currently learning **computer graphics**
 
