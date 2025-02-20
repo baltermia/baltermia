@@ -16,6 +16,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=baltermia&theme=tokyonight&show_icons=true&count_private=true&hide_title=true&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baltermia&layout=default&theme=tokyonight&hide=html&hide_border=true&card_width=330)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baltermia&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baltermia&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
