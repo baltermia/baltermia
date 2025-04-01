@@ -5,6 +5,7 @@
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=baltermia.baltermia)
 
 - 📫 How to reach me: **contact@clopath.com**
+- 📄 Code Snippets: [Gist](https://gist.github.com/baltermia)
 - 🌱 I’m currently learning **computer graphics**
 
 <h3 align="left">Connect with me:</h3>
