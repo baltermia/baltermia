@@ -1,6 +1,9 @@
 <!-- This portfolio was generated thanks to https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hi 👋 Welcome to my Portfolio!</h1>
+<h1 align="center">Hi 👋 Welcome to my GitHub Portfolio!</h1>
 <h3 align="center">.NET dev - mainly coding in C# & C++</h3>
+<p align="center"><b>Visit <a href="https://www.clopath.com/">clopath.com</a> for my CV</b></p>
+
+
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=baltermia.baltermia)
 
